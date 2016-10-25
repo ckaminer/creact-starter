@@ -1,12 +1,12 @@
-var Main = React.createClass({
+var Body = React.createClass({
   render() {
     return (
       <div>
         <div>
-          <Header />
+          <AllSkills />
         </div>
         <div>
-          <Body />
+          <NewSkill />
         </div>
       </div>
     )
